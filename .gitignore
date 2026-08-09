@@ -1,0 +1,59 @@
+﻿# Gradle
+.gradle/
+**/build/
+
+# Local configuration
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+.idea/**
+
+# Kotlin
+.kotlin/
+
+# Android generated files
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Generated APK/AAB files
+*.apk
+*.aab
+
+# Generated mapping / optimization files
+*.mapping
+*.idsig
+
+# Build outputs
+output-metadata.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Java
+*.class
+
+# Kotlin
+*.kotlin_module
+
+# Temporary files
+*.tmp
+*.temp
+
+# Firebase / Google generated local files
+google-services.json
+
+# Android Studio navigation / deployment files
+.navigation/
+
+# Compose / Android generated caches
+/.idea/caches/
+/.idea/libraries/
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/misc.xml

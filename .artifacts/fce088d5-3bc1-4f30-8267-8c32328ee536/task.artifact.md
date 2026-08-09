@@ -1,0 +1,5 @@
+- `[x]` Update `gradle/libs.versions.toml` with Hilt 2.60.1 and KSP
+- `[x]` Update root `build.gradle.kts` Hilt and KSP plugins
+- `[x]` Fix `app/build.gradle.kts` SDK versions (37) and Hilt/KSP dependencies
+- `[x]` Update `gradle.properties` for KSP compatibility
+- `[x]` Run Gradle Sync and Build verification
