@@ -1,0 +1,7 @@
+- [x] Create implementation plan
+- [x] Modify `WEHeader.kt` to support logout icon
+- [x] Modify `HomeScreen.kt` to include logout button
+- [x] Modify `ProfileScreen.kt` to include logout button
+- [x] Modify `AppNavigation.kt` to implement logout logic and wiring
+- [x] Verify build
+- [x] Create walkthrough
