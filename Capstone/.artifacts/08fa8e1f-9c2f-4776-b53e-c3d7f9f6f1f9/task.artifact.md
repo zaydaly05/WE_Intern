@@ -1,0 +1,8 @@
+- `[x]` Update package declarations and move files to `com.capstone`
+    - `[x]` `:app`
+    - `[x]` `:core-network`
+    - `[x]` `:feature-profile`
+- `[x]` Update `namespace` and `applicationId` in `build.gradle.kts` files
+- `[x]` Update `AndroidManifest.xml`
+- `[x]` Run `./gradlew clean` and verify build
+- `[x]` Cleanup old `capstone` package directories

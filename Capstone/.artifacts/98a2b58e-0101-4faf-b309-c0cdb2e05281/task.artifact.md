@@ -1,0 +1,4 @@
+- [x] Modify `core-network/build.gradle.kts` to use `api` for Retrofit and OkHttp
+- [x] Update `libs.versions.toml` to use `hilt-android-compiler`
+- [x] Verify fix by running `./gradlew :feature-profile:kaptDebugKotlin`
+- [x] Verify full build with `./gradlew assembleDebug`

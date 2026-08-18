@@ -1,0 +1,11 @@
+- [ ] Refactor root `build.gradle.kts` to use version catalog aliases and unify versions
+- [ ] Fix `app/build.gradle.kts`:
+    - Reorder plugins: `android-application`, `kotlin-android`, `kotlin-compose`, `kotlin-kapt`, `hilt-android`
+    - Use version catalog aliases for all plugins and dependencies
+    - Fix `compileSdk` syntax
+- [ ] Fix `feature-profile/build.gradle.kts`:
+    - Use version catalog aliases for all plugins and dependencies
+    - Fix `compileSdk` syntax
+- [ ] Fix `core-network/build.gradle.kts`:
+    - Use version catalog aliases for all plugins and dependencies
+- [ ] Verify fix with Gradle Sync
