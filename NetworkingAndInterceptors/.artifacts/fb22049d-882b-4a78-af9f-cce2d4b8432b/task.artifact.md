@@ -1,0 +1,4 @@
+- [x] Update `libs.versions.toml` with coroutines library
+- [x] Add coroutines dependency to `app/build.gradle.kts`
+- [x] Refactor coroutine usage in `MainActivity.kt`
+- [x] Verify build with `./gradlew :app:compileDebugKotlin`
