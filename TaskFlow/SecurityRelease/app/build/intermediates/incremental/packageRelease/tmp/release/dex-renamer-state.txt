@@ -1,0 +1,4 @@
+#Sat Aug 22 17:42:14 EEST 2026
+base.0=D\:\\Desktop\\WE_Intern\\Week 6 Task 5\\SecurityRelease\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

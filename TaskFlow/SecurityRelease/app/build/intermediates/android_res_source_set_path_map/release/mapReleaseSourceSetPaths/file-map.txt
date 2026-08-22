@@ -1,0 +1,9 @@
+com.example.securityrelease.app-pngs-0 D:\Desktop\WE_Intern\Week 6 Task 5\SecurityRelease\app\build\generated\res\pngs\release
+com.example.securityrelease.app-updated_navigation_xml-1 D:\Desktop\WE_Intern\Week 6 Task 5\SecurityRelease\app\build\generated\updated_navigation_xml\release
+com.example.securityrelease.app-packageReleaseResources-2 D:\Desktop\WE_Intern\Week 6 Task 5\SecurityRelease\app\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.example.securityrelease.app-packageReleaseResources-3 D:\Desktop\WE_Intern\Week 6 Task 5\SecurityRelease\app\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.example.securityrelease.app-merged-not-compiled-resources-4 D:\Desktop\WE_Intern\Week 6 Task 5\SecurityRelease\app\build\intermediates\merged-not-compiled-resources\release
+com.example.securityrelease.app-release-5 D:\Desktop\WE_Intern\Week 6 Task 5\SecurityRelease\app\build\intermediates\merged_res\release\mergeReleaseResources
+com.example.securityrelease.app-main-6 D:\Desktop\WE_Intern\Week 6 Task 5\SecurityRelease\app\src\main\res
+com.example.securityrelease.app-release-7 D:\Desktop\WE_Intern\Week 6 Task 5\SecurityRelease\app\src\release\res
+gradleHome-0 C:\Users\Dell\.gradle
